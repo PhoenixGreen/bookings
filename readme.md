@@ -6,3 +6,6 @@ This is the first app I'm building from my basic server template.
 - Uses the chi router
 - Uses alex edwards SCS sessions management
 - Uses nosurf
+
+
+GITTEST "Just a little up date" TEST ...
