@@ -8,4 +8,3 @@ This is the first app I'm building from my basic server template.
 - Uses nosurf
 
 
-GITTEST "Just a little up date" TEST ...
